@@ -1,0 +1,11 @@
+========================================================================
+Segun Adenaya / Udacity ALX-T Cloud DevOps NanoDegree Program
+========================================================================
+
+Project 2: Deploy a high-availabilty web app using CloudFormation
+
+Date: 18-06-2022
+
+========================================================================
+
+Output/LoadBalancer DNS URL: http://serve-webap-13nh27l2jk9r6-1454041099.us-east-1.elb.amazonaws.com/

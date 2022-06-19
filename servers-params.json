@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Segun-UdacityProject-2"
+	},
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3.medium"
+      },
+      {
+        "ParameterKey": "InstanceImageID",
+        "ParameterValue": "ami-0729e439b6769d6ab"
+      }
+]
